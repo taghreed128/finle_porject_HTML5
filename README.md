@@ -17,7 +17,7 @@ ________________________________________________________________________________
 </head>
 <body>
 	<header>
-	<h1>Garvit Khurana</h1>
+	<h1>Taghreed Aburwished</h1>
 	<nav>
 		<a href="#one">One</a>
 		<a href="#two">Two</a>
